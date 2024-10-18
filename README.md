@@ -1,4 +1,5 @@
 # ARCHITECTURE
+![image](https://github.com/user-attachments/assets/49cc4698-83ab-4b69-a735-03d22983c46e)
 
 # MSDAP TOP SYNTHESIS
 
